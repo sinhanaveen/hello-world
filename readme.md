@@ -1,2 +1,2 @@
-# Welcome
-Welcome folks; learning
+# wecome
+welcome all
